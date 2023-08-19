@@ -1,6 +1,6 @@
 # Meu estudo de Java
 <div align="center">
-<img src="java.jpg" width="2000px" alt="Imagem do site" title="Imagem do site"/>
+<img src="java.jpg" width="2000px" alt="Imagem ilustrativa"/>
 </div>
 
 ## Descrição
@@ -16,8 +16,8 @@ Este repositório foi criado para registrar o meu estudo sobre a linguagem de pr
 - Tratamento de exceções
 - Manipulação de Strings
 - Entrada/saída (I/O)
-- Threads e concorrência
 - Bibliotecas padrão e APIs
+- Spring Boot
 
 # Projetos
 
