@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.tiposPrimitivos;
 
 import java.util.Scanner;
 import java.util.Locale; // Define a minha localização como EUA
