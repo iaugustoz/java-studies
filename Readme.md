@@ -1,23 +1,32 @@
 # Meu estudo de Java
+
 <div align="center">
 <img src="java.jpg" width="2000px" alt="Imagem ilustrativa"/>
 </div>
 
 ## Descrição
+
 Este repositório foi criado para registrar o meu estudo sobre a linguagem de programação Java. Aqui, documentarei meu progresso, projetos, anotações e recursos úteis relacionados ao Java.
+
+## Status do estudo
+
+Estudo em andamento.
 
 ## Tópicos de Estudo
 
-- Introdução à linguagem Java
-- Tipos de dados, variáveis e operadores
-- Estruturas de controle (if, switch, loops)
-- Arrays e coleções
-- OOP (Programação Orientada a Objetos)
-- Tratamento de exceções
-- Manipulação de Strings
-- Entrada/saída (I/O)
-- Bibliotecas padrão e APIs
-- Spring Boot
+- Introdução à linguagem Java - Concluído;
+- Estruturas de Controle - Concluído;
+- Classes e Métodos - Em andamento;
+- Arrays e Collections;
+- P.O.O (Programação Orientada a Objetos);
+- Lambdas;
+- Stream API;
+- Tratamento de Erros;
+- Generics;
+- Spring Desktop com Swing;
+- JDBC e JPA;
+- Modularidade em Java;
+- Spring Boot.
 
 # Projetos
 
@@ -26,6 +35,7 @@ Este repositório foi criado para registrar o meu estudo sobre a linguagem de pr
 - [Projeto 3]()
 
 ## Recursos Recomendados
+
 - [Documentação Oficial do Java](https://docs.oracle.com/en/java/javase/index.html)
 - Curso Online: [Java 2022 COMPLETO: Do Zero ao Profissional + Projetos!](https://www.udemy.com/course/fundamentos-de-programacao-com-java/)
 
