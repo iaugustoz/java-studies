@@ -47,4 +47,6 @@ Sinta-se à vontade para contribuir com este repositório se você tiver recurso
 
 - Igor Augusto
 - E-mail: igoraugustobz@gmail.com
-- Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/igorbrz/).
+- Me siga no [Instagram](https://www.instagram.com/iaugusto__/)
+- Acesse o meu [Portfólio](https://iaugusto.vercel.app/)
+- Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/igorbrz/)
