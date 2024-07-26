@@ -16,8 +16,8 @@ Estudo em andamento.
 
 - Introdução à linguagem Java - Concluído;
 - Estruturas de Controle - Concluído;
-- Classes e Métodos - Em andamento;
-- Arrays e Collections;
+- Classes e Métodos - Concluído;
+- Arrays e Collections- Em andamento;
 - P.O.O (Programação Orientada a Objetos);
 - Lambdas;
 - Stream API;
