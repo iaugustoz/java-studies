@@ -6,13 +6,11 @@ public class ProdutoTeste {
 
         p1.nome = "Laptop";
         p1.preco = 4356.29;
-        p1.desconto = 0.25;
 
         Produto p2 = new Produto();
 
         p2.nome = "Caneta preta";
         p2.preco = 12.56;
-        p2.desconto = 0.29;
 
         System.out.println(p1.nome);
         System.out.println(p2.nome);
